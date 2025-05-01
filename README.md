@@ -1,4 +1,4 @@
 # first-repo
-Welcome guys
-this is my first repo.
-trying to explore github
+Welcome guys!
+This is my first repo.
+Trying to explore github.
